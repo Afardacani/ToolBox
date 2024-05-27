@@ -12,3 +12,7 @@ can translate text and file(en to fa and reverse).
 
 can get a summary of your subject.
 can shorting links and create qrcode with them.
+
+# Modules
+
+random , string , hashlib , phonenumbers , re , deep-translator , requests , socket , psutil
