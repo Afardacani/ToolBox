@@ -15,4 +15,13 @@ can shorting links and create qrcode with them.
 
 # Modules
 
-random , string , hashlib , phonenumbers , re , deep-translator , requests , socket , psutil
+random , string
+hashlib
+phonenumbers , re 
+deep-translator
+time  ,datetime
+wikipedia
+qrcode
+requests , socket , psutil , getmac
+colorama
+traceback
